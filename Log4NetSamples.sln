@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net_WCF", "Log4Net_WCF\Log4Net_WCF.csproj", "{33E5861D-221E-4836-B69F-F518352BA8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Log", "Core.Log\Core.Log.csproj", "{CFCCF70B-A695-4247-B9CA-06392389227A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net_WebSite", "Log4Net_WebSite\Log4Net_WebSite.csproj", "{5104F5E1-3A0D-4C39-A6DE-4E4D3EA84B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E5861D-221E-4836-B69F-F518352BA8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5861D-221E-4836-B69F-F518352BA8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E5861D-221E-4836-B69F-F518352BA8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E5861D-221E-4836-B69F-F518352BA8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCCF70B-A695-4247-B9CA-06392389227A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCCF70B-A695-4247-B9CA-06392389227A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCCF70B-A695-4247-B9CA-06392389227A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCCF70B-A695-4247-B9CA-06392389227A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5104F5E1-3A0D-4C39-A6DE-4E4D3EA84B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5104F5E1-3A0D-4C39-A6DE-4E4D3EA84B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5104F5E1-3A0D-4C39-A6DE-4E4D3EA84B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5104F5E1-3A0D-4C39-A6DE-4E4D3EA84B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
